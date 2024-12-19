@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+ipykernel
+python-dotenv
+langchain_community
+pypdf
+langchain_text_splitters
+wikipedia
+langchain-huggingface
+tensorflow
+tf_keras
+faiss-cpu
